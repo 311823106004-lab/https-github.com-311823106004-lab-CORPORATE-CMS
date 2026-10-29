@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Technologies - Corporate Website & Admin CMS",
+  "description": "Enterprise corporate website demo for Nexora Technologies with an interactive admin management console, real-time shared persistence, and dynamic content management. Built by MESARA AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
